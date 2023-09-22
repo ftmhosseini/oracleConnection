@@ -9,9 +9,9 @@ import java.sql.Statement;
 
 public class DatabaseConnection {
 	// JDBC URL, username, and password of your MySQL server
-	private static final String JDBC_URL = "jdbc:oracle:thin:@10.0.0.62:1521:xe";
+	private static final String JDBC_URL = "jdbc:oracle:thin:@localhost:1521:xe";
 	private static final String USERNAME = "system";
-	private static final String PASSWORD = "Salam68!";
+	private static final String PASSWORD = "Password";
 
 	// Singleton instance
 	private static DatabaseConnection instance;
