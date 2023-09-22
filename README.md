@@ -7,7 +7,7 @@ To run this project, you'll need:
 - Database (e.g., MySQL, Oracle)
 - [Any other dependencies]
 
-- 1.	Download and install Oracle Database:
+1.	Download and install Oracle Database:
 •	Visit the official Oracle Database download page: https://www.oracle.com/database/technologies/.
 •	Download the Oracle Database version that suits your needs. Make sure to download the appropriate installation package for Windows.’
 •	Once the installation is complete, Oracle Database should be installed and running on your Windows machine. Make note of the database connection details, such as the hostname, port, SID, or service name, as you will need them to connect to the database from your Java project.
