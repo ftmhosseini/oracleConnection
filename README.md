@@ -1,5 +1,5 @@
 # oracleConnection
-# library
+
 This project demonstrates a Java application that uses a Singleton class to connect to a database. It allows users to perform various operations related to student data.
 
 To run this project, you'll need:
